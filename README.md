@@ -1,1 +1,2 @@
 # QueenProblem
+making algorithm
